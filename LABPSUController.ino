@@ -22,6 +22,7 @@
 
 #define TEMPERATURE_PIN                   A1
 
+
 LCD_SSD1306 lcd; /* for SSD1306 OLED module */
 
 #define HMC5883L  0xB8
